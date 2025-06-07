@@ -1,5 +1,4 @@
 # INF-2310---LAB-2
-# Laboratorio N°2
 # EJERCICIOS NATAS
 LEVEL 0
 PASSWORD: P0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
